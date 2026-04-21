@@ -69,5 +69,12 @@ DB_NAME=local_job_hub_db
 JWT_SECRET=super_secret_key
 ```
 
+rm -rf .git
+
+Use This for remove the current git repository
+
+
 ---
-*Created by Antigravity*
+*Created by Sanchit*
+
+
